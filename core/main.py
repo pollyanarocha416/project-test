@@ -8,4 +8,5 @@ class Main:
     def soma(self, a, b):
         return a + b
 
-    def
+    def teste2(self):
+        return 'teste'
